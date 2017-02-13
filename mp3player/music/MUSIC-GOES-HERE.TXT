@@ -1,1 +1,0 @@
-Music goes here. If you'd like to change the directory where your music folder is, open and edit /mp3player/player/php/musicfolderpath.php.
